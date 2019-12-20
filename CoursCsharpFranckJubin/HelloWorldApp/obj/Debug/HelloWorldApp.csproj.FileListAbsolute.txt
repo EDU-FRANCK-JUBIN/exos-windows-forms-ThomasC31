@@ -1,0 +1,12 @@
+C:\Users\Thomas\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+C:\Users\Thomas\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+C:\Users\Thomas\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+C:\Users\Thomas\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojAssemblyReference.cache
+C:\Users\Thomas\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.Form1.resources
+C:\Users\Thomas\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.Properties.Resources.resources
+C:\Users\Thomas\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.GenerateResource.cache
+C:\Users\Thomas\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\Users\Thomas\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
+C:\Users\Thomas\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.Form2.resources
+C:\Users\Thomas\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.HotelRoom.resources
+C:\Users\Thomas\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.Calculatrice.resources

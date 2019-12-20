@@ -1,0 +1,8 @@
+C:\Users\Thomas\source\repos\CoursCsharpFranckJubin\JeuDuTaquin\bin\Debug\JeuDuTaquin.exe.config
+C:\Users\Thomas\source\repos\CoursCsharpFranckJubin\JeuDuTaquin\bin\Debug\JeuDuTaquin.exe
+C:\Users\Thomas\source\repos\CoursCsharpFranckJubin\JeuDuTaquin\bin\Debug\JeuDuTaquin.pdb
+C:\Users\Thomas\source\repos\CoursCsharpFranckJubin\JeuDuTaquin\obj\Debug\JeuDuTaquin.Form1.resources
+C:\Users\Thomas\source\repos\CoursCsharpFranckJubin\JeuDuTaquin\obj\Debug\JeuDuTaquin.Properties.Resources.resources
+C:\Users\Thomas\source\repos\CoursCsharpFranckJubin\JeuDuTaquin\obj\Debug\JeuDuTaquin.csproj.GenerateResource.cache
+C:\Users\Thomas\source\repos\CoursCsharpFranckJubin\JeuDuTaquin\obj\Debug\JeuDuTaquin.exe
+C:\Users\Thomas\source\repos\CoursCsharpFranckJubin\JeuDuTaquin\obj\Debug\JeuDuTaquin.pdb
